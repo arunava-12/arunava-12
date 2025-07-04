@@ -18,6 +18,10 @@ Hi, I'm Arunava 😁!<br>I'm passionate about building, learning, and solving pr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arunava-12&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
+### 📆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/arunava1202?theme=chartreuse&font=Carrois%20Gothic&ext=heatmap)
+
+### 🎧 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gmfg68nozxiiuyx7selg2k7tj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gmfg68nozxiiuyx7selg2k7tj&redirect=true)
 
 [![](https://visitcount.itsvg.in/api?id=arunava-12&icon=3&color=11)](https://visitcount.itsvg.in)
