@@ -10,7 +10,7 @@ Hi, I'm Arunava 😁!<br>I'm passionate about building, learning, and solving pr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arunava-12&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<p>
-![](https://nirzak-streak-stats.vercel.app/?user=arunava-12&theme=nightowl&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arunava-12&theme=nightowl&hide_border=false)<p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunava-12&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
