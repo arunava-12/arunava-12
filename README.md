@@ -14,8 +14,8 @@ Hi, I'm Arunava 😁!<br>I'm passionate about building, learning, and solving pr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunava-12&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arunava-12&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
-
+[![](https://github-profile-trophy.vercel.app/?username=arunava-12&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+](https://github-profile-trophy.vercel.app/?username=arunava-12&theme=matrix)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arunava-12&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
