@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Arunava 😁!<br>I'm passionate about building, learning, and solving problems with technology. 💻<br>I love working on projects related to Full Stack Web Development 🌐, Machine Learning 🤖, and Software Engineering 🔧.<br><br>I'm constantly learning new things, improving my skills, and building cool stuff along the way. 🚀✨
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunava12/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunavacr7@gmail.com) 
 
