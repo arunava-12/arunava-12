@@ -12,14 +12,14 @@ I'm constantly learning new things, improving my skills, and building cool stuff
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunava-12&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunava-12&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=arunava-12&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 📆 LeetCode Stats
+# 📆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arunava1202?theme=chartreuse&font=Carrois%20Gothic&ext=heatmap)
 
-### 🎧 Now Playing
+# 🎧 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gmfg68nozxiiuyx7selg2k7tj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gmfg68nozxiiuyx7selg2k7tj&redirect=true)
 
 [![](https://visitcount.itsvg.in/api?id=arunava-12&icon=3&color=11)](https://visitcount.itsvg.in)
