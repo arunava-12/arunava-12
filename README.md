@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me : 
 Hi, I'm Arunava 😁! <br>
 I'm passionate about building, learning, and solving problems with technology. 💻 <br>
 I love working on projects related to Full Stack Web Development 🌐, Machine Learning 🤖, and Software Engineering 🔧. <br>
